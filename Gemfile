@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'pg'
 gem 'devise'
 gem 'font_awesome5_rails'
+gem 'jquery-rails'
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
